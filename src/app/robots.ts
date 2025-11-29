@@ -4,3 +4,4 @@ export default function robots() {
     sitemap: "https://fluxconvert.vercel.app/sitemap.xml",
   };
 }
+
