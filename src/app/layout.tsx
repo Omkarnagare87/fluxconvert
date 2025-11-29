@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "FluxConvert — Fast, Private & Powered by AI",
   description: "Convert, optimize, and manage files privately in your browser.",
