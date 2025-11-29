@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "jpg-to-png",
+    "title": "JPG to PNG",
+    "category": "image",
+    "keywords": [
+      "jpg",
+      "png"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-to-jpg",
+    "title": "PDF to JPG",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "jpg"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes."
+      }
+    ]
+  }
+]

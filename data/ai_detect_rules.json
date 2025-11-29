@@ -1,0 +1,16 @@
+{
+  "image": {
+    "default": [
+      "image-resize-kb",
+      "image-compress",
+      "jpg-to-png"
+    ]
+  },
+  "pdf": {
+    "default": [
+      "pdf-compress",
+      "pdf-merge",
+      "pdf-to-jpg"
+    ]
+  }
+}
