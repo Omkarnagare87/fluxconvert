@@ -1,29 +1,12 @@
 [
   {
-    "slug": "jpg-to-png",
-    "title": "JPG to PNG",
-    "category": "image",
-    "keywords": [
-      "jpg",
-      "png"
-    ],
-    "aiHints": [],
-    "options": {},
-    "related": [],
-    "faq": [
-      {
-        "q": "Is this private?",
-        "a": "Yes."
-      }
-    ]
-  },
-  {
     "slug": "pdf-to-jpg",
     "title": "PDF to JPG",
     "category": "pdf",
     "keywords": [
       "pdf",
-      "jpg"
+      "pdf",
+      "pdf to jpg"
     ],
     "aiHints": [],
     "options": {},
@@ -31,7 +14,5025 @@
     "faq": [
       {
         "q": "Is this private?",
-        "a": "Yes."
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-to-png",
+    "title": "PDF to PNG",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf to png"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "jpg-to-pdf",
+    "title": "JPG to PDF",
+    "category": "pdf",
+    "keywords": [
+      "jpg",
+      "pdf",
+      "jpg to pdf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "png-to-pdf",
+    "title": "PNG to PDF",
+    "category": "pdf",
+    "keywords": [
+      "png",
+      "pdf",
+      "png to pdf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-compress",
+    "title": "PDF Compress",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf compress"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-merge",
+    "title": "PDF Merge",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf merge"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-split",
+    "title": "PDF Split",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf split"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-rotate",
+    "title": "PDF Rotate",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf rotate"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-reorder",
+    "title": "PDF Reorder Pages",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf reorder"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-to-word",
+    "title": "PDF to Word (DOCX)",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf to word"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "word-to-pdf",
+    "title": "Word to PDF",
+    "category": "pdf",
+    "keywords": [
+      "word",
+      "pdf",
+      "word to pdf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-to-ppt",
+    "title": "PDF to PowerPoint (PPTX)",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf to ppt"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "ppt-to-pdf",
+    "title": "PowerPoint to PDF",
+    "category": "pdf",
+    "keywords": [
+      "powerpoint",
+      "pdf",
+      "ppt to pdf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-to-excel",
+    "title": "PDF to Excel (XLSX)",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf to excel"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "excel-to-pdf",
+    "title": "Excel to PDF",
+    "category": "pdf",
+    "keywords": [
+      "excel",
+      "pdf",
+      "excel to pdf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "images-to-pdf",
+    "title": "Images to PDF",
+    "category": "pdf",
+    "keywords": [
+      "images",
+      "pdf",
+      "images to pdf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "html-to-pdf",
+    "title": "HTML to PDF",
+    "category": "pdf",
+    "keywords": [
+      "html",
+      "pdf",
+      "html to pdf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-to-text",
+    "title": "PDF to Text",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf to text"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-protect",
+    "title": "Protect PDF (Set Password)",
+    "category": "pdf",
+    "keywords": [
+      "protect",
+      "pdf",
+      "pdf protect"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-unlock",
+    "title": "Unlock PDF (Have Password)",
+    "category": "pdf",
+    "keywords": [
+      "unlock",
+      "pdf",
+      "pdf unlock"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-add-watermark",
+    "title": "Add Watermark to PDF",
+    "category": "pdf",
+    "keywords": [
+      "add",
+      "pdf",
+      "pdf add watermark"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-remove-watermark",
+    "title": "Remove Your Watermark from PDF",
+    "category": "pdf",
+    "keywords": [
+      "remove",
+      "pdf",
+      "pdf remove watermark"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-crop",
+    "title": "Crop PDF",
+    "category": "pdf",
+    "keywords": [
+      "crop",
+      "pdf",
+      "pdf crop"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-extract-images",
+    "title": "Extract Images from PDF",
+    "category": "pdf",
+    "keywords": [
+      "extract",
+      "pdf",
+      "pdf extract images"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-extract-pages",
+    "title": "Extract Pages from PDF",
+    "category": "pdf",
+    "keywords": [
+      "extract",
+      "pdf",
+      "pdf extract pages"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-ocr-basic",
+    "title": "PDF OCR (Basic)*",
+    "category": "pdf",
+    "keywords": [
+      "pdf",
+      "pdf",
+      "pdf ocr basic"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "rtf-to-docx",
+    "title": "RTF to DOCX",
+    "category": "pdf",
+    "keywords": [
+      "rtf",
+      "pdf",
+      "rtf to docx"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "docx-to-rtf",
+    "title": "DOCX to RTF",
+    "category": "pdf",
+    "keywords": [
+      "docx",
+      "pdf",
+      "docx to rtf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "odt-to-docx",
+    "title": "ODT to DOCX",
+    "category": "pdf",
+    "keywords": [
+      "odt",
+      "pdf",
+      "odt to docx"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "docx-to-odt",
+    "title": "DOCX to ODT",
+    "category": "pdf",
+    "keywords": [
+      "docx",
+      "pdf",
+      "docx to odt"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "markdown-to-html",
+    "title": "Markdown to HTML",
+    "category": "pdf",
+    "keywords": [
+      "markdown",
+      "pdf",
+      "markdown to html"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "html-to-markdown",
+    "title": "HTML to Markdown",
+    "category": "pdf",
+    "keywords": [
+      "html",
+      "pdf",
+      "html to markdown"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "csv-to-xlsx",
+    "title": "CSV to Excel (XLSX)",
+    "category": "pdf",
+    "keywords": [
+      "csv",
+      "pdf",
+      "csv to xlsx"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "xlsx-to-csv",
+    "title": "Excel (XLSX) to CSV",
+    "category": "pdf",
+    "keywords": [
+      "excel",
+      "pdf",
+      "xlsx to csv"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "json-to-csv",
+    "title": "JSON to CSV",
+    "category": "pdf",
+    "keywords": [
+      "json",
+      "pdf",
+      "json to csv"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "csv-to-json",
+    "title": "CSV to JSON",
+    "category": "pdf",
+    "keywords": [
+      "csv",
+      "pdf",
+      "csv to json"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "xml-to-json",
+    "title": "XML to JSON",
+    "category": "pdf",
+    "keywords": [
+      "xml",
+      "pdf",
+      "xml to json"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "json-to-xml",
+    "title": "JSON to XML",
+    "category": "pdf",
+    "keywords": [
+      "json",
+      "pdf",
+      "json to xml"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "txt-to-pdf",
+    "title": "Text (TXT) to PDF",
+    "category": "pdf",
+    "keywords": [
+      "text",
+      "pdf",
+      "txt to pdf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-reduce-dpi",
+    "title": "Reduce PDF DPI",
+    "category": "pdf",
+    "keywords": [
+      "reduce",
+      "pdf",
+      "pdf reduce dpi"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pdf-booklet",
+    "title": "Create Booklet PDF",
+    "category": "pdf",
+    "keywords": [
+      "create",
+      "pdf",
+      "pdf booklet"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "jpg-to-png",
+    "title": "JPG to PNG",
+    "category": "image",
+    "keywords": [
+      "jpg",
+      "image",
+      "jpg to png"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "png-to-jpg",
+    "title": "PNG to JPG",
+    "category": "image",
+    "keywords": [
+      "png",
+      "image",
+      "png to jpg"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "jpg-to-webp",
+    "title": "JPG to WEBP",
+    "category": "image",
+    "keywords": [
+      "jpg",
+      "image",
+      "jpg to webp"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "webp-to-jpg",
+    "title": "WEBP to JPG",
+    "category": "image",
+    "keywords": [
+      "webp",
+      "image",
+      "webp to jpg"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "png-to-webp",
+    "title": "PNG to WEBP",
+    "category": "image",
+    "keywords": [
+      "png",
+      "image",
+      "png to webp"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "webp-to-png",
+    "title": "WEBP to PNG",
+    "category": "image",
+    "keywords": [
+      "webp",
+      "image",
+      "webp to png"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "jpg-to-avif",
+    "title": "JPG to AVIF",
+    "category": "image",
+    "keywords": [
+      "jpg",
+      "image",
+      "jpg to avif"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "avif-to-jpg",
+    "title": "AVIF to JPG",
+    "category": "image",
+    "keywords": [
+      "avif",
+      "image",
+      "avif to jpg"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "heic-to-jpg",
+    "title": "HEIC to JPG",
+    "category": "image",
+    "keywords": [
+      "heic",
+      "image",
+      "heic to jpg"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "svg-to-png",
+    "title": "SVG to PNG",
+    "category": "image",
+    "keywords": [
+      "svg",
+      "image",
+      "svg to png"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "png-to-svg",
+    "title": "PNG to SVG (Trace)*",
+    "category": "image",
+    "keywords": [
+      "png",
+      "image",
+      "png to svg"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "ico-to-png",
+    "title": "ICO to PNG",
+    "category": "image",
+    "keywords": [
+      "ico",
+      "image",
+      "ico to png"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "bmp-to-png",
+    "title": "BMP to PNG",
+    "category": "image",
+    "keywords": [
+      "bmp",
+      "image",
+      "bmp to png"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-compress",
+    "title": "Compress Image",
+    "category": "image",
+    "keywords": [
+      "compress",
+      "image",
+      "image compress"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-resize-px",
+    "title": "Resize Image by Pixels",
+    "category": "image",
+    "keywords": [
+      "resize",
+      "image",
+      "image resize px"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-resize-kb",
+    "title": "Resize Image by KB/MB (Target Size)",
+    "category": "image",
+    "keywords": [
+      "resize",
+      "image",
+      "image resize kb"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-crop",
+    "title": "Crop Image",
+    "category": "image",
+    "keywords": [
+      "crop",
+      "image",
+      "image crop"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-rotate",
+    "title": "Rotate / Flip Image",
+    "category": "image",
+    "keywords": [
+      "rotate",
+      "image",
+      "image rotate"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-grayscale",
+    "title": "Grayscale Image",
+    "category": "image",
+    "keywords": [
+      "grayscale",
+      "image",
+      "image grayscale"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-exif-remove",
+    "title": "Remove EXIF/Metadata",
+    "category": "image",
+    "keywords": [
+      "remove",
+      "image",
+      "image exif remove"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-watermark-add",
+    "title": "Add Watermark to Image",
+    "category": "image",
+    "keywords": [
+      "add",
+      "image",
+      "image watermark add"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-watermark-remove",
+    "title": "Remove Your Watermark from Image",
+    "category": "image",
+    "keywords": [
+      "remove",
+      "image",
+      "image watermark remove"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-background-remove-basic",
+    "title": "Background Remove (Basic)*",
+    "category": "image",
+    "keywords": [
+      "background",
+      "image",
+      "image background remove basic"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "batch-convert-jpg",
+    "title": "Batch Convert to JPG",
+    "category": "image",
+    "keywords": [
+      "batch",
+      "image",
+      "batch convert jpg"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "batch-convert-png",
+    "title": "Batch Convert to PNG",
+    "category": "image",
+    "keywords": [
+      "batch",
+      "image",
+      "batch convert png"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "batch-auto-crop",
+    "title": "Batch Auto-Crop (Face/Center)",
+    "category": "image",
+    "keywords": [
+      "batch",
+      "image",
+      "batch auto crop"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-sharpen-lite",
+    "title": "Sharpen (Lite)",
+    "category": "image",
+    "keywords": [
+      "sharpen",
+      "image",
+      "image sharpen lite"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-denoise-lite",
+    "title": "Denoise (Lite)",
+    "category": "image",
+    "keywords": [
+      "denoise",
+      "image",
+      "image denoise lite"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-auto-contrast",
+    "title": "Auto Contrast",
+    "category": "image",
+    "keywords": [
+      "auto",
+      "image",
+      "image auto contrast"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-auto-levels",
+    "title": "Auto Levels",
+    "category": "image",
+    "keywords": [
+      "auto",
+      "image",
+      "image auto levels"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-color-to-gray",
+    "title": "Color to Grayscale",
+    "category": "image",
+    "keywords": [
+      "color",
+      "image",
+      "image color to gray"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-thumbnail",
+    "title": "Thumbnail Generator",
+    "category": "image",
+    "keywords": [
+      "thumbnail",
+      "image",
+      "image thumbnail"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "sprite-sheet-maker",
+    "title": "Sprite Sheet Maker",
+    "category": "image",
+    "keywords": [
+      "sprite",
+      "image",
+      "sprite sheet maker"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "favicon-generator",
+    "title": "Favicon Generator",
+    "category": "image",
+    "keywords": [
+      "favicon",
+      "image",
+      "favicon generator"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-aspect-ratio",
+    "title": "Aspect Ratio Calculator",
+    "category": "image",
+    "keywords": [
+      "aspect",
+      "image",
+      "image aspect ratio"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-to-ico",
+    "title": "Image to ICO",
+    "category": "image",
+    "keywords": [
+      "image",
+      "image",
+      "image to ico"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-tiler",
+    "title": "Image Tiler",
+    "category": "image",
+    "keywords": [
+      "image",
+      "image",
+      "image tiler"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-border",
+    "title": "Add Border/Round Corners",
+    "category": "image",
+    "keywords": [
+      "add",
+      "image",
+      "image border"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-text-overlay",
+    "title": "Add Text Overlay",
+    "category": "image",
+    "keywords": [
+      "add",
+      "image",
+      "image text overlay"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "image-compare",
+    "title": "Before/After Compare",
+    "category": "image",
+    "keywords": [
+      "before/after",
+      "image",
+      "image compare"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "photo-id-presets",
+    "title": "Photo ID Presets (Passport/Forms)",
+    "category": "image",
+    "keywords": [
+      "photo",
+      "image",
+      "photo id presets"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mp3-to-wav",
+    "title": "MP3 to WAV",
+    "category": "audio",
+    "keywords": [
+      "mp3",
+      "audio",
+      "mp3 to wav"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "wav-to-mp3",
+    "title": "WAV to MP3",
+    "category": "audio",
+    "keywords": [
+      "wav",
+      "audio",
+      "wav to mp3"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mp3-to-m4a",
+    "title": "MP3 to M4A",
+    "category": "audio",
+    "keywords": [
+      "mp3",
+      "audio",
+      "mp3 to m4a"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "m4a-to-mp3",
+    "title": "M4A to MP3",
+    "category": "audio",
+    "keywords": [
+      "m4a",
+      "audio",
+      "m4a to mp3"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mp3-to-aac",
+    "title": "MP3 to AAC",
+    "category": "audio",
+    "keywords": [
+      "mp3",
+      "audio",
+      "mp3 to aac"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "aac-to-mp3",
+    "title": "AAC to MP3",
+    "category": "audio",
+    "keywords": [
+      "aac",
+      "audio",
+      "aac to mp3"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mp3-to-ogg",
+    "title": "MP3 to OGG",
+    "category": "audio",
+    "keywords": [
+      "mp3",
+      "audio",
+      "mp3 to ogg"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "ogg-to-mp3",
+    "title": "OGG to MP3",
+    "category": "audio",
+    "keywords": [
+      "ogg",
+      "audio",
+      "ogg to mp3"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "wav-to-flac",
+    "title": "WAV to FLAC",
+    "category": "audio",
+    "keywords": [
+      "wav",
+      "audio",
+      "wav to flac"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "flac-to-mp3",
+    "title": "FLAC to MP3",
+    "category": "audio",
+    "keywords": [
+      "flac",
+      "audio",
+      "flac to mp3"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-trim",
+    "title": "Audio Trim/Cut",
+    "category": "audio",
+    "keywords": [
+      "audio",
+      "audio",
+      "audio trim"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-merge",
+    "title": "Audio Merge",
+    "category": "audio",
+    "keywords": [
+      "audio",
+      "audio",
+      "audio merge"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-fade",
+    "title": "Fade In/Out",
+    "category": "audio",
+    "keywords": [
+      "fade",
+      "audio",
+      "audio fade"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-normalize",
+    "title": "Normalize Audio",
+    "category": "audio",
+    "keywords": [
+      "normalize",
+      "audio",
+      "audio normalize"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-volume-boost",
+    "title": "Volume Boost",
+    "category": "audio",
+    "keywords": [
+      "volume",
+      "audio",
+      "audio volume boost"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-bitrate",
+    "title": "Change Bitrate",
+    "category": "audio",
+    "keywords": [
+      "change",
+      "audio",
+      "audio bitrate"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-samplerate",
+    "title": "Change Sample Rate",
+    "category": "audio",
+    "keywords": [
+      "change",
+      "audio",
+      "audio samplerate"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-mono-stereo",
+    "title": "Mono ↔ Stereo",
+    "category": "audio",
+    "keywords": [
+      "mono",
+      "audio",
+      "audio mono stereo"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-silence-cutter",
+    "title": "Silence Cutter",
+    "category": "audio",
+    "keywords": [
+      "silence",
+      "audio",
+      "audio silence cutter"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-loop-maker",
+    "title": "Loop Maker",
+    "category": "audio",
+    "keywords": [
+      "loop",
+      "audio",
+      "audio loop maker"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-vocal-remover-lite",
+    "title": "Vocal Remover (Lite)",
+    "category": "audio",
+    "keywords": [
+      "vocal",
+      "audio",
+      "audio vocal remover lite"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-noise-reduce-lite",
+    "title": "Noise Reduce (Lite)",
+    "category": "audio",
+    "keywords": [
+      "noise",
+      "audio",
+      "audio noise reduce lite"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-left-right-extract",
+    "title": "Left/Right Channel Extract",
+    "category": "audio",
+    "keywords": [
+      "left/right",
+      "audio",
+      "audio left right extract"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-channel-swap",
+    "title": "Channel Swap",
+    "category": "audio",
+    "keywords": [
+      "channel",
+      "audio",
+      "audio channel swap"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-id3-editor",
+    "title": "ID3 Tag Editor",
+    "category": "audio",
+    "keywords": [
+      "id3",
+      "audio",
+      "audio id3 editor"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-reverse",
+    "title": "Reverse Audio",
+    "category": "audio",
+    "keywords": [
+      "reverse",
+      "audio",
+      "audio reverse"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-speed-change",
+    "title": "Change Speed/Tempo",
+    "category": "audio",
+    "keywords": [
+      "change",
+      "audio",
+      "audio speed change"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-pitch-shift",
+    "title": "Pitch Shift",
+    "category": "audio",
+    "keywords": [
+      "pitch",
+      "audio",
+      "audio pitch shift"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-trim-silence",
+    "title": "Trim Leading/Trailing Silence",
+    "category": "audio",
+    "keywords": [
+      "trim",
+      "audio",
+      "audio trim silence"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-mix",
+    "title": "Mix Tracks",
+    "category": "audio",
+    "keywords": [
+      "mix",
+      "audio",
+      "audio mix"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "aac-to-wav",
+    "title": "AAC to WAV",
+    "category": "audio",
+    "keywords": [
+      "aac",
+      "audio",
+      "aac to wav"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "wav-to-aac",
+    "title": "WAV to AAC",
+    "category": "audio",
+    "keywords": [
+      "wav",
+      "audio",
+      "wav to aac"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "ogg-to-wav",
+    "title": "OGG to WAV",
+    "category": "audio",
+    "keywords": [
+      "ogg",
+      "audio",
+      "ogg to wav"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "wav-to-ogg",
+    "title": "WAV to OGG",
+    "category": "audio",
+    "keywords": [
+      "wav",
+      "audio",
+      "wav to ogg"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "m4a-to-wav",
+    "title": "M4A to WAV",
+    "category": "audio",
+    "keywords": [
+      "m4a",
+      "audio",
+      "m4a to wav"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "wav-to-m4a",
+    "title": "WAV to M4A",
+    "category": "audio",
+    "keywords": [
+      "wav",
+      "audio",
+      "wav to m4a"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-to-mp3",
+    "title": "Any Audio to MP3",
+    "category": "audio",
+    "keywords": [
+      "any",
+      "audio",
+      "audio to mp3"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-to-wav",
+    "title": "Any Audio to WAV",
+    "category": "audio",
+    "keywords": [
+      "any",
+      "audio",
+      "audio to wav"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-converter-batch",
+    "title": "Batch Audio Converter",
+    "category": "audio",
+    "keywords": [
+      "batch",
+      "audio",
+      "audio converter batch"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "audio-metadata-strip",
+    "title": "Strip Audio Metadata",
+    "category": "audio",
+    "keywords": [
+      "strip",
+      "audio",
+      "audio metadata strip"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mp4-to-webm",
+    "title": "MP4 to WEBM",
+    "category": "video",
+    "keywords": [
+      "mp4",
+      "video",
+      "mp4 to webm"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "webm-to-mp4",
+    "title": "WEBM to MP4",
+    "category": "video",
+    "keywords": [
+      "webm",
+      "video",
+      "webm to mp4"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-to-mp3",
+    "title": "Video to MP3",
+    "category": "video",
+    "keywords": [
+      "video",
+      "video",
+      "video to mp3"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mp4-to-gif",
+    "title": "MP4 to GIF",
+    "category": "video",
+    "keywords": [
+      "mp4",
+      "video",
+      "mp4 to gif"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-trim",
+    "title": "Trim Video",
+    "category": "video",
+    "keywords": [
+      "trim",
+      "video",
+      "video trim"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-mute",
+    "title": "Mute/Replace Audio",
+    "category": "video",
+    "keywords": [
+      "mute/replace",
+      "video",
+      "video mute"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-resolution",
+    "title": "Change Resolution",
+    "category": "video",
+    "keywords": [
+      "change",
+      "video",
+      "video resolution"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-fps",
+    "title": "Change FPS",
+    "category": "video",
+    "keywords": [
+      "change",
+      "video",
+      "video fps"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-bitrate",
+    "title": "Change Bitrate",
+    "category": "video",
+    "keywords": [
+      "change",
+      "video",
+      "video bitrate"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-rotate-flip",
+    "title": "Rotate/Flip Video",
+    "category": "video",
+    "keywords": [
+      "rotate/flip",
+      "video",
+      "video rotate flip"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-thumbnail",
+    "title": "Video Thumbnail Generator",
+    "category": "video",
+    "keywords": [
+      "video",
+      "video",
+      "video thumbnail"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-sprite",
+    "title": "Video Sprite Sheet",
+    "category": "video",
+    "keywords": [
+      "video",
+      "video",
+      "video sprite"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-merge",
+    "title": "Merge Videos",
+    "category": "video",
+    "keywords": [
+      "merge",
+      "video",
+      "video merge"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-watermark-add",
+    "title": "Add Watermark to Video",
+    "category": "video",
+    "keywords": [
+      "add",
+      "video",
+      "video watermark add"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-crop",
+    "title": "Crop Video",
+    "category": "video",
+    "keywords": [
+      "crop",
+      "video",
+      "video crop"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-to-webp",
+    "title": "Video to animated WebP",
+    "category": "video",
+    "keywords": [
+      "video",
+      "video",
+      "video to webp"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-subtitle-burn",
+    "title": "Burn Subtitles (SRT)",
+    "category": "video",
+    "keywords": [
+      "burn",
+      "video",
+      "video subtitle burn"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-subtitle-extract",
+    "title": "Extract Subtitles (SRT)",
+    "category": "video",
+    "keywords": [
+      "extract",
+      "video",
+      "video subtitle extract"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-stabilize-lite",
+    "title": "Stabilize (Lite)",
+    "category": "video",
+    "keywords": [
+      "stabilize",
+      "video",
+      "video stabilize lite"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-speed-change",
+    "title": "Change Speed",
+    "category": "video",
+    "keywords": [
+      "change",
+      "video",
+      "video speed change"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "video-reverse",
+    "title": "Reverse Video",
+    "category": "video",
+    "keywords": [
+      "reverse",
+      "video",
+      "video reverse"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "avi-to-mp4",
+    "title": "AVI to MP4",
+    "category": "video",
+    "keywords": [
+      "avi",
+      "video",
+      "avi to mp4"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mov-to-mp4",
+    "title": "MOV to MP4",
+    "category": "video",
+    "keywords": [
+      "mov",
+      "video",
+      "mov to mp4"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mkv-to-mp4",
+    "title": "MKV to MP4",
+    "category": "video",
+    "keywords": [
+      "mkv",
+      "video",
+      "mkv to mp4"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "gif-to-mp4",
+    "title": "GIF to MP4",
+    "category": "video",
+    "keywords": [
+      "gif",
+      "video",
+      "gif to mp4"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "kg-to-lb",
+    "title": "Kilograms to Pounds",
+    "category": "education",
+    "keywords": [
+      "kilograms",
+      "education",
+      "kg to lb"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "lb-to-kg",
+    "title": "Pounds to Kilograms",
+    "category": "education",
+    "keywords": [
+      "pounds",
+      "education",
+      "lb to kg"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "cm-to-inch",
+    "title": "Centimeters to Inches",
+    "category": "education",
+    "keywords": [
+      "centimeters",
+      "education",
+      "cm to inch"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "inch-to-cm",
+    "title": "Inches to Centimeters",
+    "category": "education",
+    "keywords": [
+      "inches",
+      "education",
+      "inch to cm"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "m-to-ft",
+    "title": "Meters to Feet",
+    "category": "education",
+    "keywords": [
+      "meters",
+      "education",
+      "m to ft"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "ft-to-m",
+    "title": "Feet to Meters",
+    "category": "education",
+    "keywords": [
+      "feet",
+      "education",
+      "ft to m"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "l-to-ml",
+    "title": "Liters to Milliliters",
+    "category": "education",
+    "keywords": [
+      "liters",
+      "education",
+      "l to ml"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "ml-to-l",
+    "title": "Milliliters to Liters",
+    "category": "education",
+    "keywords": [
+      "milliliters",
+      "education",
+      "ml to l"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "c-to-f",
+    "title": "Celsius to Fahrenheit",
+    "category": "education",
+    "keywords": [
+      "celsius",
+      "education",
+      "c to f"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "f-to-c",
+    "title": "Fahrenheit to Celsius",
+    "category": "education",
+    "keywords": [
+      "fahrenheit",
+      "education",
+      "f to c"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "k-to-c",
+    "title": "Kelvin to Celsius",
+    "category": "education",
+    "keywords": [
+      "kelvin",
+      "education",
+      "k to c"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "c-to-k",
+    "title": "Celsius to Kelvin",
+    "category": "education",
+    "keywords": [
+      "celsius",
+      "education",
+      "c to k"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "hz-to-khz",
+    "title": "Hertz to Kilohertz",
+    "category": "education",
+    "keywords": [
+      "hertz",
+      "education",
+      "hz to khz"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "khz-to-hz",
+    "title": "Kilohertz to Hertz",
+    "category": "education",
+    "keywords": [
+      "kilohertz",
+      "education",
+      "khz to hz"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "hz-to-mhz",
+    "title": "Hertz to Megahertz",
+    "category": "education",
+    "keywords": [
+      "hertz",
+      "education",
+      "hz to mhz"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mhz-to-hz",
+    "title": "Megahertz to Hertz",
+    "category": "education",
+    "keywords": [
+      "megahertz",
+      "education",
+      "mhz to hz"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "b-to-kb",
+    "title": "Bytes to Kilobytes",
+    "category": "education",
+    "keywords": [
+      "bytes",
+      "education",
+      "b to kb"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "kb-to-mb",
+    "title": "Kilobytes to Megabytes",
+    "category": "education",
+    "keywords": [
+      "kilobytes",
+      "education",
+      "kb to mb"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mb-to-gb",
+    "title": "Megabytes to Gigabytes",
+    "category": "education",
+    "keywords": [
+      "megabytes",
+      "education",
+      "mb to gb"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "gb-to-tb",
+    "title": "Gigabytes to Terabytes",
+    "category": "education",
+    "keywords": [
+      "gigabytes",
+      "education",
+      "gb to tb"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "bit-to-byte",
+    "title": "Bits to Bytes",
+    "category": "education",
+    "keywords": [
+      "bits",
+      "education",
+      "bit to byte"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "byte-to-bit",
+    "title": "Bytes to Bits",
+    "category": "education",
+    "keywords": [
+      "bytes",
+      "education",
+      "byte to bit"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "px-to-cm",
+    "title": "Pixels to Centimeters (with PPI)",
+    "category": "education",
+    "keywords": [
+      "pixels",
+      "education",
+      "px to cm"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "cm-to-px",
+    "title": "Centimeters to Pixels (with PPI)",
+    "category": "education",
+    "keywords": [
+      "centimeters",
+      "education",
+      "cm to px"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "px-to-inch",
+    "title": "Pixels to Inches (with PPI)",
+    "category": "education",
+    "keywords": [
+      "pixels",
+      "education",
+      "px to inch"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "inch-to-px",
+    "title": "Inches to Pixels (with PPI)",
+    "category": "education",
+    "keywords": [
+      "inches",
+      "education",
+      "inch to px"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "dpi-calculator",
+    "title": "DPI/PPI Calculator",
+    "category": "education",
+    "keywords": [
+      "dpi/ppi",
+      "education",
+      "dpi calculator"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "j-to-wh",
+    "title": "Joules to Watt-hours",
+    "category": "education",
+    "keywords": [
+      "joules",
+      "education",
+      "j to wh"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "wh-to-j",
+    "title": "Watt-hours to Joules",
+    "category": "education",
+    "keywords": [
+      "watt-hours",
+      "education",
+      "wh to j"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "kwh-to-j",
+    "title": "kWh to Joules",
+    "category": "education",
+    "keywords": [
+      "kwh",
+      "education",
+      "kwh to j"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "j-to-kwh",
+    "title": "Joules to kWh",
+    "category": "education",
+    "keywords": [
+      "joules",
+      "education",
+      "j to kwh"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "ohm-to-kohm",
+    "title": "Ohms to Kiloohms",
+    "category": "education",
+    "keywords": [
+      "ohms",
+      "education",
+      "ohm to kohm"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "kohm-to-ohm",
+    "title": "Kiloohms to Ohms",
+    "category": "education",
+    "keywords": [
+      "kiloohms",
+      "education",
+      "kohm to ohm"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "ohm-to-mohm",
+    "title": "Ohms to Megaohms",
+    "category": "education",
+    "keywords": [
+      "ohms",
+      "education",
+      "ohm to mohm"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mohm-to-ohm",
+    "title": "Megaohms to Ohms",
+    "category": "education",
+    "keywords": [
+      "megaohms",
+      "education",
+      "mohm to ohm"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "h-to-mh",
+    "title": "Henry to MilliHenry",
+    "category": "education",
+    "keywords": [
+      "henry",
+      "education",
+      "h to mh"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mh-to-h",
+    "title": "MilliHenry to Henry",
+    "category": "education",
+    "keywords": [
+      "millihenry",
+      "education",
+      "mh to h"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "h-to-uh",
+    "title": "Henry to MicroHenry",
+    "category": "education",
+    "keywords": [
+      "henry",
+      "education",
+      "h to uh"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "uh-to-h",
+    "title": "MicroHenry to Henry",
+    "category": "education",
+    "keywords": [
+      "microhenry",
+      "education",
+      "uh to h"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "f-to-uf",
+    "title": "Farad to MicroFarad",
+    "category": "education",
+    "keywords": [
+      "farad",
+      "education",
+      "f to uf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "uf-to-f",
+    "title": "MicroFarad to Farad",
+    "category": "education",
+    "keywords": [
+      "microfarad",
+      "education",
+      "uf to f"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "f-to-mf",
+    "title": "Farad to MilliFarad",
+    "category": "education",
+    "keywords": [
+      "farad",
+      "education",
+      "f to mf"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mf-to-f",
+    "title": "MilliFarad to Farad",
+    "category": "education",
+    "keywords": [
+      "millifarad",
+      "education",
+      "mf to f"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "v-a-w",
+    "title": "Voltage/Current/Power Calculator (V/A/W)",
+    "category": "education",
+    "keywords": [
+      "voltage/current/power",
+      "education",
+      "v a w"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "resistor-series-parallel",
+    "title": "Series/Parallel Resistor Calculator",
+    "category": "education",
+    "keywords": [
+      "series/parallel",
+      "education",
+      "resistor series parallel"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "ohms-law",
+    "title": "Ohm's Law Calculator",
+    "category": "education",
+    "keywords": [
+      "ohm's",
+      "education",
+      "ohms law"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "molarity",
+    "title": "Molarity Calculator",
+    "category": "education",
+    "keywords": [
+      "molarity",
+      "education",
+      "molarity"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "ratio-percentage",
+    "title": "Ratio & Percentage Converter",
+    "category": "education",
+    "keywords": [
+      "ratio",
+      "education",
+      "ratio percentage"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "sci-notation",
+    "title": "Scientific Notation Converter",
+    "category": "education",
+    "keywords": [
+      "scientific",
+      "education",
+      "sci notation"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "time-ms-s",
+    "title": "Milliseconds to Seconds",
+    "category": "education",
+    "keywords": [
+      "milliseconds",
+      "education",
+      "time ms s"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "time-s-ms",
+    "title": "Seconds to Milliseconds",
+    "category": "education",
+    "keywords": [
+      "seconds",
+      "education",
+      "time s ms"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "area-cm2-inch2",
+    "title": "cm² to inch²",
+    "category": "education",
+    "keywords": [
+      "cm²",
+      "education",
+      "area cm2 inch2"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "area-inch2-cm2",
+    "title": "inch² to cm²",
+    "category": "education",
+    "keywords": [
+      "inch²",
+      "education",
+      "area inch2 cm2"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "pressure-pa-bar",
+    "title": "Pascal to Bar",
+    "category": "education",
+    "keywords": [
+      "pascal",
+      "education",
+      "pressure pa bar"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "bar-to-pa",
+    "title": "Bar to Pascal",
+    "category": "education",
+    "keywords": [
+      "bar",
+      "education",
+      "bar to pa"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "speed-kmph-mph",
+    "title": "km/h to mph",
+    "category": "education",
+    "keywords": [
+      "km/h",
+      "education",
+      "speed kmph mph"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "mph-to-kmph",
+    "title": "mph to km/h",
+    "category": "education",
+    "keywords": [
+      "mph",
+      "education",
+      "mph to kmph"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "density-kgm3-gcm3",
+    "title": "kg/m³ to g/cm³",
+    "category": "education",
+    "keywords": [
+      "kg/m³",
+      "education",
+      "density kgm3 gcm3"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "gcm3-to-kgm3",
+    "title": "g/cm³ to kg/m³",
+    "category": "education",
+    "keywords": [
+      "g/cm³",
+      "education",
+      "gcm3 to kgm3"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "nm-to-hz",
+    "title": "Wavelength (nm) to Frequency (Hz)",
+    "category": "education",
+    "keywords": [
+      "wavelength",
+      "education",
+      "nm to hz"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "hz-to-nm",
+    "title": "Frequency (Hz) to Wavelength (nm)",
+    "category": "education",
+    "keywords": [
+      "frequency",
+      "education",
+      "hz to nm"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "db-calc",
+    "title": "dB Calculator",
+    "category": "education",
+    "keywords": [
+      "db",
+      "education",
+      "db calc"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "duty-cycle",
+    "title": "Duty Cycle Calculator",
+    "category": "education",
+    "keywords": [
+      "duty",
+      "education",
+      "duty cycle"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "zip-create",
+    "title": "Create ZIP",
+    "category": "utility",
+    "keywords": [
+      "create",
+      "utility",
+      "zip create"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "zip-extract",
+    "title": "Extract ZIP",
+    "category": "utility",
+    "keywords": [
+      "extract",
+      "utility",
+      "zip extract"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "7z-to-zip",
+    "title": "7z to ZIP",
+    "category": "utility",
+    "keywords": [
+      "7z",
+      "utility",
+      "7z to zip"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "rar-to-zip",
+    "title": "RAR to ZIP*",
+    "category": "utility",
+    "keywords": [
+      "rar",
+      "utility",
+      "rar to zip"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "base64-encode",
+    "title": "Base64 Encode",
+    "category": "utility",
+    "keywords": [
+      "base64",
+      "utility",
+      "base64 encode"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "base64-decode",
+    "title": "Base64 Decode",
+    "category": "utility",
+    "keywords": [
+      "base64",
+      "utility",
+      "base64 decode"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "url-encode",
+    "title": "URL Encode",
+    "category": "utility",
+    "keywords": [
+      "url",
+      "utility",
+      "url encode"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "url-decode",
+    "title": "URL Decode",
+    "category": "utility",
+    "keywords": [
+      "url",
+      "utility",
+      "url decode"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
+      }
+    ]
+  },
+  {
+    "slug": "checksum-md5-sha",
+    "title": "Checksum (MD5/SHA-256)",
+    "category": "utility",
+    "keywords": [
+      "checksum",
+      "utility",
+      "checksum md5 sha"
+    ],
+    "aiHints": [],
+    "options": {},
+    "related": [],
+    "faq": [
+      {
+        "q": "Is this private?",
+        "a": "Yes. Processing runs locally in your browser; files are not uploaded."
+      },
+      {
+        "q": "Mobile support?",
+        "a": "Yes, modern mobile browsers work."
       }
     ]
   }
